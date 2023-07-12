@@ -101,6 +101,9 @@ O usuário irá visualizar todos os pratos cadastrados e, quando clicar em um pr
 | :---------- | :--------- | :------------------------------------------ |
 | `id`      | `string` | **Obrigatório**. O ID do prato que você deseja deletar |
 
+## Acesso
+
+Link de acesso ao projeto: https://foodexplo.netlify.app/
 
 ## Execução do projeto
 
